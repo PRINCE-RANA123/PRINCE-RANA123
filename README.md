@@ -4,9 +4,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on : Web Devs
-- 🌱 I’m currently learning : CSS,JS
-- 👯 I’m looking to collaborate on : CSS,JS
-- 🤔 I’m looking for help with : Web Dev
+- 🌱 I’m currently learning : Java Script
+- 👯 I’m looking to collaborate on : Express.Js
+- 🤔 I’m looking for help with : Mongo DB
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact : I'm a bird !!
+- ⚡ Fun fact : Fucc Tou Fun Fact 
 

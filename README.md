@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on : Express.Js
 - 🤔 I’m looking for help with : Mongo DB
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact : Fucc Tou Fun Fact 
+- ⚡ Fun fact : Fucc Fun Facts. 
 

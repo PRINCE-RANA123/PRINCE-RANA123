@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning : Java Script,Express.JS,Mongo DB, Template Engines
 - 👯 I’m looking to collaborate on : Express.Js
 - 🤔 I’m looking for help with : Mongo DB
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact : Fucc Fun Facts. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PRINCE-RANA123)](https://github.com/PRINCE-RANA123/github-readme-stats)

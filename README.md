@@ -10,3 +10,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact : Fucc Fun Facts. 
 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=PRINCE-RANA123&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919" />
